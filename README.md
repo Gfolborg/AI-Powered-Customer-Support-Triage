@@ -4,7 +4,7 @@
 
 <h1>AI-Powered Customer Support Triage</h1>
 <p>
-This is a mission-critical Intelligent Automation (IA) workflow designed for Customer Support Teams to replace manual ticket handling. The system uses scheduled AI Triage to read and classify unstructured customer complaints, ensuring $100\%$ accuracy in routing and instant notification to the appropriate internal teams via Slack, significantly improving response times.
+This is a mission-critical AI Automated workflow designed for Customer Support Teams to replace manual ticket handling. The system uses scheduled AI Triage to read and classify unstructured customer complaints, ensuring $100\%$ accuracy in routing and instant notification to the appropriate internal teams via Slack, significantly improving response times.
 </p>
 
 <h2>Environments and Technologies Used</h2>
